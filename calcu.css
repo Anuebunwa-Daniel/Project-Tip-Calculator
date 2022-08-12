@@ -1,0 +1,108 @@
+body{
+    background-color: rgb(192, 104, 104);
+}
+.container{
+   background-color: rgb(184, 180, 180); 
+   height: auto;
+   border-radius: 20px;
+}
+#java{
+    font-size: 20px;
+    font-weight: bold;
+    color: antiquewhite;
+}
+.everyday{
+    background-color: rgb(116, 49, 49);
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    color:white;
+    border-radius: 20px;
+}
+.much{
+    font-family:'garamond' ;
+}
+.innerBody{
+    width: 450px;
+    text-align: center;
+    margin-left: 100px;
+    border-radius: 30px;
+    border: 2px solid;
+    background-color: rgb(219, 102, 141);
+}
+#naira{
+    font-size: 20px;
+}
+.bill{
+    width: 400px;
+    border-radius: 10px;
+    height: 50px;
+}
+.bill:hover{
+    font-weight: 700;
+    
+}
+.our{
+    margin-left: px;
+    font-family:'garamond' ;
+}
+.our:hover{
+    font-weight: 700;
+    
+}
+.rating{
+    border-radius: 10px;
+    height: 45px;
+    width:400px;
+    font-size: 30px;
+    font-family:'garamond' ;
+    margin-left: 17px;
+}
+.rating:hover{
+    font-weight: 700;
+    
+}
+.num{
+    font-size: 25px;
+    margin-left: 2px; ;
+    font-family:'garamond' ;
+    margin-top: 20px;
+}
+.num:hover{
+    font-weight: 700;
+    
+}
+.people{
+    border-radius: 10px;
+    margin-left: 17px;
+    height: 45px;
+    width:400px;
+    font-size: 20px;
+    font-family:'garamond' ;
+    margin-left: 17px;
+    
+}
+.people:hover{
+    font-weight: 700;
+
+}
+.calculate{
+    margin-top: 20px;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 10px;
+    color:rgb(95, 24, 24);
+}
+.calculate:hover{
+    color: brown;
+    background-color: gray;
+}
+.display{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'garamond';
+    font-weight: 700;
+    display: none;
+}
+
